@@ -1,4 +1,5 @@
 // this file is "Tsar Bomba ∞"
+#pragma once
 #include <iostream>
 #include <vector>
 #include <cstdlib>
