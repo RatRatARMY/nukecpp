@@ -8,6 +8,9 @@ alias clang="/usr/bin/clang-20"
 alias clang++="/usr/bin/clang++-20"
 ```
 - Step 5: Compile the main.cpp file: `clang++ -I. main.cpp -o main`
+- Step 6: Run test the file with: `./main`
+
+Warning: If run this file, it can "nuke" your system. Run the file with risk!
 # If use Windows
 You can use WSL (Windows Subsystem for Linux) for that thing (use Ubuntu 24.04 WSL)
 # Linux distro used to build this file
